@@ -1,4 +1,4 @@
-# Autonomous Navigation with Reactive Control in ROS
+# Autonomous Navigation and Path planning using Probabilistic Roadmap Algorithm
 
 ## Overview
 This project develops an autonomous navigation system for a differential drive robot using the ROS framework. It integrates advanced path planning with real-time obstacle detection and avoidance, leveraging the Probabilistic Roadmap (PRM) method and simulated LiDAR sensor data.
@@ -21,6 +21,3 @@ This project develops an autonomous navigation system for a differential drive r
 
 ## Results
 The integration of PRM and reactive control strategies successfully demonstrated autonomous navigation in a ROS-based simulation, meeting project expectations with effective goal achievement and obstacle navigation.
-
-
-![image](https://github.com/khullarsanket/Autonomous-Navigation-and-Path-planning-using-Probabilistic-Roadmap-Algorithm/assets/119709438/d2424985-1556-4654-9a89-e1d91302c578)
