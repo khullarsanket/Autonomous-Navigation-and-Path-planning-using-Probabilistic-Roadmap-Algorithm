@@ -21,3 +21,5 @@ This project develops an autonomous navigation system for a differential drive r
 
 ## Results
 The integration of PRM and reactive control strategies successfully demonstrated autonomous navigation in a ROS-based simulation, meeting project expectations with effective goal achievement and obstacle navigation.
+
+![image](https://github.com/khullarsanket/Autonomous-Navigation-and-Path-planning-using-Probabilistic-Roadmap-Algorithm/assets/119709438/678aec42-80ab-4379-b98e-956f281a0d41)
